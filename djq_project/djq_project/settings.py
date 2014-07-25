@@ -101,3 +101,8 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/1.6/howto/static-files/
 
 STATIC_URL = '/static/'
+
+# Third-party authentication
+SOCIAL_AUTH_GOOGLE_OAUTH2_KEY = "295557336225-bc5or3c6u3s4f3b2d363itiain7f1f48.apps.googleusercontent.com"
+SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET = "BymZC4lwJPdILplZ6_IxPpuC"
+
